@@ -1,0 +1,77 @@
+.Profile{
+    width: 30%;
+    height: 30%;
+    align-items: center;
+}
+.patientCard{
+    display: flex;
+}
+.ImageCrd{
+    border-radius: 100%;
+    align-items: center;
+}
+.PastUp{
+    display: flex;
+    align-items: center;
+}
+.noteCard{
+    background-color: rgb(198, 206, 212);
+}
+.MainPage{
+    width: 100%;
+}
+.messagebtn{
+    background-color: rgb(253, 251, 250);
+    border: none;
+    border-radius: 25px;
+    border: 1px solid gray;
+}
+.appointment{
+    background-color: rgb(166, 163, 163);
+    margin-left: 30px;
+    height: 50px;
+    padding-top: 10px;
+    width: 80%;
+}
+.apText1{
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+.detailCancel{
+    background-color: rgb(189, 189, 189);
+}
+.dataCancle{
+    background-color: white;
+}
+.Treatment{
+    background-color: rgb(166, 163, 163);
+}
+.steps{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    height: 25px;
+    width: 25px;
+    padding-left: 8px;
+}
+.secondComponent{
+    margin-left: 300px;
+}
+.savebtn{
+    margin-left: 208px;
+}
+.filDiv{
+    border: 1px solid gray;
+}
+.showbtn{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-left: 500px;
+    padding-left: 10px;
+    
+}
+.userIcons{
+    color: blue;
+}
